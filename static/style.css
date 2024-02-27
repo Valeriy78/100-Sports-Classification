@@ -1,0 +1,22 @@
+#sports-image-classifier{
+    text-align: center;
+}
+
+.st-emotion-cache-12w0qpk{
+    padding: 1rem;
+    border-radius: 0.5rem;
+    background-color: #F6DDCC;
+}
+
+.st-emotion-cache-d4bf2y.ef3psqc12{
+    background-color: #2ECC71;  
+}
+
+.pred_label{
+    font-size: larger;
+}
+
+.sport{
+    text-align: center;
+    background-color: yellow;
+}
