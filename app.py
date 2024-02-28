@@ -28,7 +28,7 @@ def predict(file):
 def main():
 
     st.set_page_config(
-        page_title="100 Sports Classification",
+        page_title="Sports Image Classifier",
         page_icon=":basketball:",
         layout="wide",
         initial_sidebar_state="expanded"
